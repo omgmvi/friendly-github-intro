@@ -9,6 +9,8 @@
 
 ### Participants
 
+* Man Luo 
+* Beth Nichols
 * Fernando Benitez | mbenitezp
 * 
 * 

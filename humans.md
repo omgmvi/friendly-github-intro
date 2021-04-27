@@ -9,6 +9,7 @@
 
 ### Participants
 
+* Bea Costa Gomes - github: [@mooniean](https://github.com/mooniean/), twitter: [@mooniean](https://twitter.com/mooniean)
 * Evangeline Corcoran
 * Man Luo 
 * Beth Nichols

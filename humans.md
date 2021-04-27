@@ -1,5 +1,30 @@
 # All the lovely people involved in making this happen
 
+## 27 April 2021
+
+### Facilitators
+
+* Kirstie Whitaker
+* Aida Mehonic
+
+### Participants
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
 ## Facilitators
 
 * Kirstie Whitaker - github: [@KirstieJane](https://github.com/kirstiejane/), twitter: [@kirstie_j](https://twitter.com/kirstie_j), website: www.kirstiewhitaker.com

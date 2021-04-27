@@ -56,6 +56,7 @@
 * Ed Emmott   - github: [@edemmott] (https://github.com/edemmott/)
 * Kamal - github: [@kamalfartiyal84](https://github.com/kamalfartiyal84/)
 * Divya Venkatesh - github: [@delfinut](https://github.com/delfinut/)
+cava-github.............
 
 ## Mozilla Science Lab Fellows
 
